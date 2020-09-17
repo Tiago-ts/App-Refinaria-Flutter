@@ -48,7 +48,7 @@ class _NeutraState extends State<Neutra> {
           _erro = " ";
           // ignore: undefined_getter
           _Resultado =
-              " Sua parada de produção foi " +  numero.toString() +" minutos ";
+              " Sua parada de produção foi " +  numero.toString() +" minutos. ";
         });
       }
     }
